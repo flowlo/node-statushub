@@ -1,0 +1,19 @@
+{
+  "name": "statushub",
+  "version": "0.0.1",
+  "description": "A node based client for the StatusHub API",
+  "author": "Lorenz Leutgeb <lorenz.leutgeb@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flowlo/node-statushub.git"
+  },
+  "bugs": {
+    "url": "https://github.com/flowlo/node-statushub/issues"
+  },
+  "keywords": [ "statushub", "rest", "statuspage", "status", "service", "api", "tool" ],
+  "dependencies": {
+    "restler": "",
+    "hashish": ""
+  },
+  "license": "MIT"
+}
